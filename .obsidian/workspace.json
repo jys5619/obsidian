@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "f9d8827c605038a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "07d5be956e9ba171",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1bb9d61018a0a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그램/JAVA/stream().md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1879b75f3ff45f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa11ddc5bdd46eae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd2717b401261bdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30073fbe6f239ce7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37964641e49dcf00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ecdba28831dbaa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8702a52c0709a5e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4e00479c3bce9d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "프로그램/JAVA/stream().md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e16fef7f96f3f232",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "프로그램/JAVA/stream().md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78bb04ee0c714320",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8bd8bf304931233c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "프로그램/JAVA/stream().md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e1bb9d61018a0a9b",
+  "lastOpenFiles": [
+    "프로그램/JAVA/stream().md",
+    "프로그램/JAVA",
+    "프로그램"
+  ]
+}
