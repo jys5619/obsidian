@@ -15,4 +15,7 @@ Map<String, TempVO> tempMap = tempList.stream().collect(Collectors.toMap(TempVO:
 
 // Map<String, Map<String, String>>
 Map<String, TempVO> tempMap = tempList.stream().collect(Collectors.toMap(TempVO::getString, vo -> Map.of("key1", vo.getVal01(), "key2", vo.getVal02())));
+
+// Map<String, List<TempVO>>
+Map<String, List<TempVO>> tempListMap = tempList.stream().collect(Collectors.groupingBy(vo -> vo.getString()));
 ```

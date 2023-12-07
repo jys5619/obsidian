@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그램/JAVA/stream().md",
-                "mode": "preview",
+                "file": "프로그램/Validation Item/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66281fd00406073d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그램/Validation Item/TODO.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그램/JAVA/stream().md",
+                "file": "프로그램/Validation Item/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그램/JAVA/stream().md",
+                "file": "프로그램/Validation Item/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그램/JAVA/stream().md"
+                "file": "프로그램/Validation Item/TODO.md"
               }
             }
           }
@@ -149,6 +161,11 @@
   "active": "e1bb9d61018a0a9b",
   "lastOpenFiles": [
     "프로그램/JAVA/stream().md",
+    "프로그램/JAVA/배열.md",
+    "프로그램/Validation Item/TODO.md",
+    "프로그램/JAVA/Date.md",
+    "프로그램/Validation Item/BOM Error Monitoring",
+    "프로그램/Validation Item",
     "프로그램/JAVA",
     "프로그램"
   ]
