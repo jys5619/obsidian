@@ -19,7 +19,7 @@ Map<String, TempVO> tempMap = tempList.stream().collect(Collectors.toMap(TempVO:
 // Map<String, List<TempVO>>
 Map<String, List<TempVO>> tempListMap = tempList.stream().collect(Collectors.groupingBy(vo -> vo.getString()));
 
-// Stream의 reduce 이용  
+// Stream의 reduce 이용 Sum
 Integer sum1 = numbers.stream().reduce(0, Integer::sum);  
 
 // IntStream의 sum 이용  
